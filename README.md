@@ -19,5 +19,6 @@ epic_4:
 "4_silver transform data" where data cleaning and transformation occured. Storing it after transformation to silver layer container.
 
 epic_5:
+5_Lookup notebook2 to shedule the workflow to run on user defined  weekday
 
 
