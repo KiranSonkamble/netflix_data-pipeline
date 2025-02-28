@@ -20,5 +20,9 @@ epic_4:
 
 epic_5:
 5_Lookup notebook2 to shedule the workflow to run on user defined  weekday
+Run my 'netflix_title' file on weekday "5" using workflow
+
+epic_6:
+
 
 
