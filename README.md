@@ -1,5 +1,7 @@
 # Netflix Data Pipeline
 #### Purpose: To develop and demonstrate proficiency in Azure Databricks Workflow and Delta Live Tables.
+### Overview
+This project aims to build a robust data pipeline using Azure Databricks. The pipeline will ingest, process, and store Netflix data, leveraging Databricks' powerful data engineering and streaming capabilities.
 
 Data Source = "Tableau Sample Netflix Dataset"
 
@@ -42,4 +44,8 @@ creating a final notebook to load all the data into catalog using delta live tab
 ## epic_7: 
 Sharing the data to Power BI or Azure Synapse Analytics via delta share.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Any suggestions and recommendations are welcomed. Next, 
+I will be learning more about Databricks workflows, Delta tables, and CI/CD pipelines.
+## **THANK YOU**
 
