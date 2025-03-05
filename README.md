@@ -3,13 +3,15 @@
 ### Overview
 This project aims to build a robust data pipeline using Azure Databricks. The pipeline will ingest, process, and store Netflix data, leveraging Databricks' powerful data engineering and streaming capabilities.
 
+## epic_1:
 Data Source = "Tableau Sample Netflix Dataset"
 
 Tools & Tech: Azure Services, Azure Data Factory, Azure Databricks(Unity Catalog), Databricks Workflow, Databricks DLT, Git and Github,
-Azure AD, RBAC, ADLS gen2, Power BI
+Azure AD, RBAC, ADLS gen2, Power BI.
 
-## epic_1:
 create Azure resources and services and plan the architecture of the project
+
+![image alt](https://github.com/KiranSonkamble/netflix_data-pipeline/blob/main/Project_architecture.png)
 
 ## epic_2:
 load all the data from github to bronze layer using Azure data factory
