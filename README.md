@@ -9,6 +9,7 @@ create Azure resources and services and plan the architecture of the project
 
 ## epic_2:
 load all the data from github to bronze layer using Azure data factory
+![image alt](https://github.com/KiranSonkamble/netflix_data-pipeline/blob/aca790f77c0ba341eef6c792b02d473ea0f8cf67/adf.jpeg)
 create increametal_ingestion using azure databticks autoloader
 
 ## epic_3:
