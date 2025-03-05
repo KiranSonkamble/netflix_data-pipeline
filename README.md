@@ -1,4 +1,6 @@
 # netflix_data-pipeline
+Data Source = "Tableau Sample Netflix Dataset"
+Tools: Azure Services, Azure Databricks, A
 epic_1:
 create Azure resources and services and plan the architecture of the project
 
@@ -17,6 +19,9 @@ epic_5:
 Run my 'netflix_title' file on weekday "5" using workflow
 
 epic_6:
-creating a final notebook to load all the data into gold layer using delta live table
+creating a final notebook to load all the data into catalog using delta live table
+
+epic_7: 
+Sharing the data to POwer BI or delta share to azure Synapse Analytics
 
 
