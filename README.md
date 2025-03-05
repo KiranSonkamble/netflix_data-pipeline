@@ -1,4 +1,6 @@
-# netflix_data-pipeline
+# Netflix Data Pipeline
+#### Purpose: To develop and demonstrate proficiency in Azure Databricks Workflow and Delta Live Tables.
+
 Data Source = "Tableau Sample Netflix Dataset"
 
 Tools & Tech: Azure Services, Azure Data Factory, Azure Databricks(Unity Catalog), Databricks Workflow, Databricks DLT, Git and Github,
