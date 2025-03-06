@@ -47,7 +47,6 @@ creating a final notebook to load all the data into catalog using delta live tab
 Sharing the data to Power BI or Azure Synapse Analytics via delta share.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Any suggestions and recommendations are welcomed. Next, 
-I will be learning more about Databricks workflows, Delta tables, and CI/CD pipelines.
+Any suggestions and recommendations are welcomed.
 ## **THANK YOU**
 
